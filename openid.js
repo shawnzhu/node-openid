@@ -1430,6 +1430,7 @@ var attributeMapping =
   , 'http://axschema.org/namePerson/first': 'firstname'
   , 'http://axschema.org/pref/language': 'language'
   , 'http://axschema.org/namePerson/last': 'lastname'
+  , 'http://openid.net/schema/person/guid': 'guid'
   // The following are not in the Google document:
   , 'http://axschema.org/namePerson/friendly': 'nickname'
   , 'http://axschema.org/namePerson': 'fullname'
