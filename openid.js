@@ -1433,6 +1433,7 @@ var attributeMapping =
   // The following are not in the Google document:
   , 'http://axschema.org/namePerson/friendly': 'nickname'
   , 'http://axschema.org/namePerson': 'fullname'
+  , 'http://openid.net/schema/person/guid': 'guid'
 };
 
 openid.AttributeExchange = function AttributeExchange(options) 
